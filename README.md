@@ -1,3 +1,5 @@
+#使用vue3编写的的云音乐PC mobile项目，接口来源开源的接口
+线上项目地址：http://121.4.252.64:4000/
 # cloud-music-mobile
 
 ## Project setup
