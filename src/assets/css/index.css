@@ -1,0 +1,20 @@
+/* 阿里图标 */
+/* @import url('//at.alicdn.com/t/font_2695258_lr6x2rmznh.css'); */
+@import url('https://cdn.jsdelivr.net/npm/normalize.css@8.0.1/normalize.css');
+.icon {
+    width: 1em; height: 1em;
+    vertical-align: -0.15em;
+    fill: currentColor;
+    overflow: hidden;
+ }
+
+/* .icon{
+    font-size: 0.3rem;
+    width: 0.3rem;
+} */
+
+*{
+    box-sizing: border-box;
+    font-weight: 200;
+    font-family:'微软雅黑';
+}
